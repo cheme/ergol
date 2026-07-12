@@ -1,0 +1,1 @@
+sudo rm /usr/share/X11/xkb/symbols/bepogol
